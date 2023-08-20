@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "900646287538",
+    "project_id": "organise-3eea7",
+    "storage_bucket": "organise-3eea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900646287538:android:b5367d85dd1f55ec8bf1ab",
+        "android_client_info": {
+          "package_name": "com.example.organize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900646287538-u9a1svu5jul4t0fnl92vqp9g9h6uuat6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIB8-ElW70CDxsNZNKvhfS8i9Nuc4Uf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900646287538-u9a1svu5jul4t0fnl92vqp9g9h6uuat6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900646287538-horvlle95cfh853updi7q4q32ge189uv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.organize"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
